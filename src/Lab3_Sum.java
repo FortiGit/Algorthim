@@ -1,7 +1,7 @@
 /** Ephrem Kidane
  * Lab 3 Question 3
  * Sum of sorted arrays of 0s and 1s using recursion
- * Time complexty - O(log n)
+ * Time complexty - O(n)
  */
 public class Lab3_Sum {
     int sum =0;
